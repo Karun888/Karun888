@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m Karun
 - 👀 I’m interested in learming to code
 - 🌱 I’m currently learning python
 - 
